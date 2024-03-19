@@ -1,0 +1,35 @@
+# Arquivos de build
+dist/
+build/
+out/
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Arquivos de configuração IDE
+.idea/
+.vscode/
+
+# Dependências e módulos
+node_modules/
+bower_components/
+
+# Arquivos gerados pelo Transpilador Sass
+*.css.map
+
+# Arquivos gerados pelo Transpilador TypeScript
+*.js
+*.js.map
+
+# Arquivos gerados pelo Bundler
+bundle.js
+bundle.js.map
+
+# Arquivos gerados pelo Gerenciador de Pacotes
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Arquivos de cache
+.cache/
